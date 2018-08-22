@@ -9,3 +9,4 @@ Currently, only backtesting using the Poloniex API is supported, but plans for o
 Backtesting can be run using the following command on Part 3:
 `python backtest.py`
 
+This bot was forked by aapljosh and will now be edited
